@@ -1,5 +1,7 @@
 An Aqua Flask Inventory Management System using Laravel Framework, this system does all the CRUD features, it can add, edit, update, show, and delete an aquaflask
 
+![laravelfinal](https://user-images.githubusercontent.com/101308694/211160576-32c85738-3c56-464d-b627-ae460e3f6006.jpg)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
